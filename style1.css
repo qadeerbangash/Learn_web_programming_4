@@ -1,0 +1,28 @@
+*{
+    color: red;
+    background-color: sandybrown;
+}
+.edu{
+    color: white;
+    background-color: skyblue;
+}
+li>a{
+    color: violet;
+    background-color: blueviolet;
+}
+p>b{
+    color: cyan;
+    background-color: darkblue;
+}
+p i{
+    color: darkred;
+    background-color: white;
+}
+h2+p{
+    color: yellowgreen;
+    background-color: whitesmoke;
+}
+h1~p{
+    color: yellowgreen;
+    background-color: whitesmoke;
+}
